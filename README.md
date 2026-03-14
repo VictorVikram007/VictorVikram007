@@ -212,7 +212,7 @@ WearX integrates wearable sensors with AI algorithms to continuously monitor vit
 
 <p align="center">
 
-<a href="https://www.buymeacoffee.com/">
+<a href="https://www.buymeacoffee.com/vikrambalaji">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
 </a>
 
