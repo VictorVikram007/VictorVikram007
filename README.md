@@ -187,19 +187,17 @@ WearX integrates wearable sensors with AI algorithms to continuously monitor vit
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=VictorVikram007&theme=dark&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorVikram007&show_icons=true&theme=tokyonight" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVikram007&layout=compact&theme=tokyonight" />
 
 </div>
-
----
 
 # 🎯 Current Focus
 
